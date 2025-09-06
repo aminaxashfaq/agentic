@@ -38,11 +38,7 @@ streamlit run src/app_streamlit.py --server.headless true
 
 Then open http://localhost:8501 (Streamlit opens the browser automatically).
 
-If your shell still points to another Python, explicitly call the env’s Python:
 
-```powershell
-& "C:\Users\amina\anaconda3\envs\agentic\python.exe" -m streamlit run src/app_streamlit.py --server.headless true
-```
 
 ---
 
